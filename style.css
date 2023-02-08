@@ -1,0 +1,84 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.title{
+    background-image: linear-gradient(to right, red, blue);
+    padding: 5% 10%;
+}
+#profile{
+    width: 25rem;
+    float: left;
+    margin-right: 20px;
+}
+.name{
+    margin-top: 100px;
+}
+.name{
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+    font-weight: bolder;
+    color: #ffffff;
+}
+.skills{
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.skill{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.my-skills{
+    background-color: #f3ec78;
+    background-image: linear-gradient(to right, rgb(246, 80, 80), rgb(61, 61, 247));
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+    padding-bottom: 2.5rem;
+    font-weight: bolder;
+    font-size:2.5rem;
+}
+.s1{
+    font-weight: bold;
+    color: grey;
+}
+img{
+    width: 15%;
+    float: none;
+    padding-bottom: 1.5rem;
+}
+p{
+    font-style: italic;
+    font-weight: bold;
+    color: #e0dede;
+}
+img:hover,
+img:focus{
+  width:20%;
+}
+.educational-qualifications{
+    text-align: center;
+    background-image: linear-gradient(to right, red, blue);
+    padding: 5% 10%;
+}
+.education{   
+    color: #ffffff;
+    padding-bottom: 2.5rem;
+    font-weight: bolder;
+    font-size:2.5rem;
+}
+#School{
+    
+    border: #e0dede solid ;
+    border-radius: 100%;
+}
+#Collage{
+    border: #e0dede solid ;
+    border-radius: 100%;
+}
+.edu{
+    color: #ffffff;
+}
